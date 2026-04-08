@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,52 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# Backend Internship Task
+
+## ER Diagram
+![ER Diagram](ER.png)
+
+## Loom Video
+https://www.loom.com/share/6185fced7b3443f891460d46161f8627
+>>>>>>> bba1b5e57f3611a6a4230c7e94cdd3b9797e3cf2
+# Backend Internship Task
+
+## 📌 Overview
+This project is created as part of the Backend Developer Internship Task.
+
+---
+
+## 🧩 ER Diagram
+![ER Diagram](ER.png)
+
+---
+
+## 🚀 Task 2 - Project Setup
+
+- Initialized NestJS project
+- Created Hello World API
+- Connected PostgreSQL database using TypeORM
+- Application running successfully on localhost
+
+---
+
+## 🎥 Loom Video
+https://www.loom.com/share/85e041f4b457498fafb3258f0a45ff27
+
+---
+
+## ⚙️ Tech Stack
+
+- Framework: NestJS
+- Language: TypeScript
+- Database: PostgreSQL
+- ORM: TypeORM
+
+---
+
+## ▶️ How to Run
+
+```bash
+npm install
+npm run start
